@@ -3,6 +3,7 @@ package com.example.gitrebasepractice
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+//master commit first
 class MainActivity : AppCompatActivity() {
 //first commit
 //second commit
